@@ -1,6 +1,5 @@
 <p align="center">
-  <img width="256" height="256" src="https://www.iconfinder.com/data/icons/web-hosting-2-3/65/96-512.png
-">
+  <img width="256" height="256" src="https://github.com/Py-Project/FaceKit/blob/main/img/04.png">
 </p>
 
 # Cookies
@@ -51,6 +50,6 @@ Android does not appear to allow users to view individual cookies. You can delet
 </p>
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/HTTP_cookie">
-    <img width="100" height="100" src="https://lh3.googleusercontent.com/proxy/L6YCMt6fsEEen28XkOejVNjWuvbIuqwzkzzfK60Mw6PUMYU3Os_XNkUZMd2Dpi8Cr4HG3F1YNCXiFAgsy78rAvhoqmVxJvfQhr6nAbLSLR8s4bGYuUBKm2vMOOJ4pMRUmH3LaA_CNf4">
+    <img width="100" height="100" src="https://github.com/Py-Project/FaceKit/blob/main/img/03.png">
     </a>
 </p>
