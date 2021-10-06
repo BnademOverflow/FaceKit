@@ -1,14 +1,14 @@
 def to_dict_cookies(string_cookies):
     try:
         string_cookies = string_cookies.replace(" ", "")
-        dict_cookies = dict(x.split("=") for x in string_cookies.split(";"))
-        return dict_cookies
+        return dict(x.split("=") for x in string_cookies.split(";"))
     except:
-        return {"datr":""}
+        return {"datr": ""}
+
 
 def to_mbasic(url):
-	if not url:
-		return url
-	if not "https://mbasic.facebook.com" in url:
-		return "https://mbasic.facebook.com" + url
-	return url
+    if not url:
+        return url
+    if "https://mbasic.facebook.com" not in url:
+        return "https://mbasic.facebook.com" + url
+    return url
