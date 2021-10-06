@@ -1,0 +1,13 @@
+version: "3.7"
+
+services:
+    facekit:
+        build:
+            context: .
+            dockerfile: Dockerfile
+        command: python run.py
+        ports:
+            - 5000:5000
+        environment:
+            - FLASK_APP=run.py
+            - ENVIRONMENT=dev
